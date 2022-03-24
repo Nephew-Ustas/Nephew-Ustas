@@ -4,17 +4,17 @@
 ---
 
 ## Главное
-[Wiki](Pages/Wiki.md)
+[Wiki](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/Wiki.md)
 
-[Жизненный цикл разработки](Pages/LifeCycle.md)
+[Жизненный цикл разработки](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/LifeCycle.md)
 
-[FAQ](Pages/FAQ.md)
+[FAQ](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/FAQ.md)
 
 ## Инфраструктура
-[Github](Pages/Github.md)
+[Github](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/Github.md)
 
 ## Обратная связь
 По всем предложениям сотрудничества и участия в разработке пишите - *daniel.pustotin@gmail.com*
 
 ## Проекты
-[TheBean](Pages/TheBean.md)
+[TheBean](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/TheBean.md)
