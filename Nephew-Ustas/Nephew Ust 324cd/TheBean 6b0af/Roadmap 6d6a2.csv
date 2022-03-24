@@ -1,0 +1,13 @@
+﻿Projects,Type,Status,Priority,Epic,Tasks,Estimated Deadline,Developers,Created,Branch,TIC
+Fix constraints in StatisticsView,Bug 🐞,In Progress,P2,Roadmap%206d6a2/Statistics%20962ae.md,,,Fokkely,"March 23, 2022 12:13 AM",,6
+Create UI - RecipesView,Task 🔨,Not Started,P3,Roadmap%206d6a2/RecipesVie%203264f.md,,,,"March 23, 2022 12:28 AM",,2
+Create UI - StatisticsView,Task 🔨,Not Started,P3,Roadmap%206d6a2/Statistics%20962ae.md,,,,"March 23, 2022 12:22 AM",,1
+StatisticsView,Epic ⛰️,,P3,,"Roadmap%206d6a2/Create%20UI%20%203948c.md, Roadmap%206d6a2/Fix%20constr%203f9c0.md",,,"March 23, 2022 12:13 AM",,9
+RecipesView,Epic ⛰️,,P3,Roadmap%206d6a2/RecipesVie%203264f.md,"Roadmap%206d6a2/RecipesVie%203264f.md, Roadmap%206d6a2/Create%20UI%20%20cf2f6.md",,,"March 23, 2022 12:13 AM",,8
+API,Epic ⛰️,,P4,,"Roadmap%206d6a2/Find%20or%20cr%20792b5.md, Roadmap%206d6a2/Create%20a%20A%207dbe3.md",,,"March 23, 2022 12:18 AM",,10
+Add localization,Task 🔨,In Progress,P4,,,,heartsker,"March 23, 2022 12:13 AM",,7
+Find or create nice&free API,Task 🔨,Not Started,P4,Roadmap%206d6a2/API%200ef8b.md,,,,"March 23, 2022 12:13 AM",,3
+Create UI - MapView,Task 🔨,Not Started,P5,Roadmap%206d6a2/MapView%209c8b9.md,,,,"March 23, 2022 12:28 AM",,4
+Create a API Model functionality,Task 🔨,Not Started,P5,Roadmap%206d6a2/API%200ef8b.md,,,,"March 23, 2022 12:13 AM",,5
+Поменять структуру репозитория,Task 🔨,Not Started,,,,,heartsker,"March 24, 2022 3:19 PM",,12
+MapView,Epic ⛰️,,,,Roadmap%206d6a2/Create%20UI%20%208f2f5.md,,,"March 23, 2022 12:13 AM",,11
