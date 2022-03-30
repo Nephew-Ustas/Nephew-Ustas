@@ -15,6 +15,3 @@
 
 ## Обратная связь
 По всем предложениям сотрудничества и участия в разработке пишите - *daniel.pustotin@gmail.com*
-
-## Проекты
-[TheBean](https://github.com/Nephew-Ustas/Nephew-Ustas/blob/main/Pages/TheBean.md)
