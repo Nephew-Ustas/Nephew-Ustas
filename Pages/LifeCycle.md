@@ -42,7 +42,7 @@
     2. Узнать идентификатор development_team: в файле проекта вкладка Build Settings -> поиск -> development_team -> нажать на <имя> (Personal Team) -> other
     3. Далее необходимо добавить эти данные в переменные окружения. Для этого выполни
         ```bash
-        open ~/.zshrc
+        open ~/.zshrc || (touch ~/.zshrc && open ~/.zshrc)
         ```
     4. Добавь в файл строки
         ```bash
