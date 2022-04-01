@@ -37,20 +37,21 @@
 
 ## Установка и запуск
 1. Создай подпись для твоих проектов.
-    1. Узнай Bundle Identifier Prefix - это строка, которая находится перед названием проекта
+    1. Открой любой из уже созданных проектов в Xcode (или создай новый).
+    2. Узнай Bundle Identifier Prefix - это строка, которая находится перед названием проекта
         <img width="612" alt="Screenshot 2022-04-01 at 1 23 31 AM" src="https://user-images.githubusercontent.com/51203539/161159752-077cf6a0-a5ba-4c08-b0d4-d506a3c82bfe.png">
-    2. Узнать идентификатор development_team: в файле проекта вкладка Build Settings -> поиск -> development_team -> нажать на <имя> (Personal Team) -> other
-    3. Далее необходимо добавить эти данные в переменные окружения. Для этого выполни
+    3. Узнать идентификатор development_team: в файле проекта вкладка Build Settings -> поиск -> development_team -> нажать на <имя> (Personal Team) -> other
+    4. Далее необходимо добавить эти данные в переменные окружения. Для этого выполни
         ```bash
         open ~/.zshrc || (touch ~/.zshrc && open ~/.zshrc)
         ```
-    4. Добавь в файл строки
+    5. Добавь в файл строки
         ```bash
         # Environment variables for xcodegen:
         export BUNDLE_ID_PREFIX=nephew.ustas
         export DEVELOPMENT_TEAM=ABCDEFGH12
         ```
-    5. Чтобы применить изменения, выполни
+    6. Чтобы применить изменения, выполни
         ```bash
         source ~/.zshrc
         ```
